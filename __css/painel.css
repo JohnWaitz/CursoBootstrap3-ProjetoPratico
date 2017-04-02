@@ -1,0 +1,19 @@
+body {
+	background: url(../__img/old_moon.png);
+	padding-top: 80px;
+}
+
+.panel {
+	margin-bottom: 0px;
+}
+
+.conteudo-painel {
+	background: white;
+	border-radius: 9px;
+	border: 1px solid #eee;
+	box-shadow: 2px 2px 5px #888;
+}
+
+.conteudo-painel-int {
+	padding: 12px;
+}

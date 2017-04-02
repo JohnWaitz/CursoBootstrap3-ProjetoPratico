@@ -1,2 +1,2 @@
 # CursoBootstrap3-ProjetoPratico
-Curso Bootstrap 3 - Projeto Prático
+Projeto prático do curso de Bootstrap 3 realizado na Devmedia.
